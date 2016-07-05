@@ -1,0 +1,10 @@
+Image_Path=    .\\imagedata\\fea_extra_binar.bmp
+save_file_path=     .\\imagedata\\morphological.bmp
+shape=         2
+size=          3
+
+
+
+
+
+说明：shape 0:MORPH_RECT,1:MORPH_CROSS,2:MORPH_ELLIPSE

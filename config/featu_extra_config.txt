@@ -1,0 +1,15 @@
+﻿R=            6
+STEP=         10
+TH1=          8
+TH2=         0.97
+TH3=       0.97
+MM=           2
+NN=           2
+File_of_Extration_Path=   .\\imagedata\\image_read.bmp
+file_save_path=          .\\imagedata\\fea_extra_binar.bmp
+
+说明：  R表示圆形半径的大小
+        STEP表示theta的步长
+		TH1，TH2，TH3表示门限
+		MM，NN表示求均值时的窗口大小
+		File_of_Extration_Path读取文件的路径

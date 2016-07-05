@@ -1,0 +1,10 @@
+imagepath=            .\\imagedata\\image_read.bmp
+Layer_of_Pyramid=     5
+Flags_Reduce_Expand   0
+
+
+说明: imagepath指定读取的文件的路径
+      Layer_of_Pyramid指定生成金字塔的层数
+	  Flags_Reduce_Expand 为0表示图像变小，为1表示图像变大
+	  生成的文件默认保存在.\\imagedata\\PyramidImage中，目前不支持
+	  改变保存文件的路径

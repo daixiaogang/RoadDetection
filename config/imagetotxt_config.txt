@@ -1,0 +1,2 @@
+image_read_path  .\\imagedata\\PyramidImage\\Image0.bmp
+txt_write_path   .\\data\\imagetotxt\\imagetotxt.txt
